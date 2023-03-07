@@ -2,11 +2,11 @@
 using namespace std;
 int main(){
 
-    cout<<"*"<<endl
-    <<"**"<<endl
-    <<"***"<<endl
-    <<"**"<<endl
-    <<"*";
+    cout<<"*\n"
+          "**\n"
+          "***\n"
+          "**\n"
+          "*";
 
     return 0;
 }
